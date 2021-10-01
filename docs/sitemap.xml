@@ -71,11 +71,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/habitat/aquatic/</loc>
-         <lastmod>2021-10-01</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://github.com/GOG0310/middlebury-plan/habitat/floodplains/</loc>
          <lastmod>2021-10-01</lastmod>
          <changefreq>daily</changefreq>
@@ -87,6 +82,11 @@
     </url>
     <url>
          <loc>https://github.com/GOG0310/middlebury-plan/habitat/pathsEdges/</loc>
+         <lastmod>2021-10-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/GOG0310/middlebury-plan/habitat/pondsCreeks/</loc>
          <lastmod>2021-10-01</lastmod>
          <changefreq>daily</changefreq>
     </url>
