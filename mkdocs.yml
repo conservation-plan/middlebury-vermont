@@ -1,0 +1,181 @@
+# Copyright (c) 2016-2020 Martin Donath <martin.donath@squidfunk.com>
+
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to
+# deal in the Software without restriction, including without limitation the
+# rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+# sell copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+
+# The above copyright notice and this permission notice shall be included in
+# all copies or substantial portions of the Software.
+
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+# FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+# IN THE SOFTWARE.
+
+# Project information
+site_name: Town of Middlebury Conservation Plan
+site_url: https://github.com/GOG0310/middlebury-plan
+site_author: Jeff Howarth
+site_description: >-
+  Conservation plan for the Town of Middlebury, Vermont
+
+# Repository
+repo_name: Geog310/middlebury-plan
+repo_url: https://github.com/GEOG310/middlebury-plan
+edit_uri: ""
+
+# Copyright
+copyright: Copyright &copy; 2021 Jeff Howarth
+
+# Configuration
+theme:
+  logo: images/eePrimerIcon.png
+  favicon: images/eePrimerIcon.png
+  name: material
+  # custom_dir: mkdocs-material/material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+
+  features:
+    # - tabs
+    - instant
+
+  palette:
+    scheme: white
+    primary: white
+    accent: orange
+  font:
+    text: Libre Baskerville
+    # text: Didact Gothic
+    code: Roboto Mono
+
+# Plugins
+plugins:
+  - search
+  - minify
+
+# src and site directories
+docs_dir: 'src'
+site_dir: 'docs'
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/jeffhowarth
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/jeffgeographer
+  extra_css:
+    - stylesheets/extra.css
+
+# Extensions
+markdown_extensions:
+  - smarty
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: false
+      toc_depth: 3
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight:
+      linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - attr_list
+
+# Page tree
+nav:
+  - Introduction: index.md
+  - Plan overview:
+    - Executive summary: plan/summary.md
+    - Priority reserve lands: plan/reserves.md
+    - Restoration opportunties: plan/restore.md
+    - Preferred development: plan/development.md
+  - Landscape components:
+    - Rural blocks: landscape/ruralBlocks.md
+    - Forest blocks: landscape/forestblocks.md
+    - Habitat corridors: landscape/habitatConnectors.md
+    - Public access: landscape/publicAccess.md
+    - Scenic viewsheds: landscape/scenicViewsheds.md
+  - Community components:
+    - Swamps: community/swamps.md
+    - Floodplain forests: community/floodplainForests.md
+    - Valley clayplain forests: community/clayplainForests.md
+    - Upland hardwood forests: community/uplandHardwoods.md
+    - Farmlands: community/farmlands.md
+    - Woodlands: community/woodlands.md
+  - Habitat components:
+    - Topographic slope: habitat/slopes.md
+    - Climate change refugia: habitat/refugia.md
+    - Floodplains: habitat/floodplains.md
+    - Soils: habitat/soils.md
+    - Forest age: habitat/oldForests.md
+    - Aquatic habitats: habitat/aquatic.md
+    - Wetlands: habitat/wetlands.md
+    - Vernal pools: habitat/vernalPools.md
+    - Routes and edges: habitat/pathsEdges.md
+  - Species components:
+    - Bat habitat: species/bats.md
+    - Bear habitat: species/bear.md
+    - Deer habitat: species/deer.md
+    - Salamander habitat: species/salamander.md
+  - Plan evaluation:
+    - Current reserve lands: evaluation/currentReserveLands.md
+    - Area goals: evaluation/areaGoals.md
+    - Representativeness: evaluation/representativeness.md
+    - Rarity: evaluation/rarity.md
+    - Connectivity: evaluation/connectivity.md
+    - Monitoring sites: evaluation/monitoring.md
+  - Background materials:
+    - Introduction: background/intro.md
+  - Methods:
+    - Introduction: methods/intro.md
+
+#  - Contributing: contributing.md
+#  - License: license.md
+
+# Google Analytics
+google_analytics:
+  - G-G4GWH4RPQ1
+  - auto
