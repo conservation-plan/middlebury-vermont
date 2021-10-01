@@ -150,11 +150,11 @@ nav:
     - Climate change refugia: habitat/refugia.md
     - Floodplains: habitat/floodplains.md
     - Soils: habitat/soils.md
-    - Forest age: habitat/oldForests.md 
+    - Forest age: habitat/oldForests.md
     - Ponds and creeks: habitat/pondsCreeks.md
     - Wetlands: habitat/wetlands.md
     - Vernal pools: habitat/vernalPools.md
-    - Routes and edges: habitat/pathsEdges.md
+    - Friction: habitat/friction.md
   - Species components:
     - Bat habitat: species/bats.md
     - Bear habitat: species/bear.md
