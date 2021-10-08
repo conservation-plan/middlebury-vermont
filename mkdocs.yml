@@ -126,16 +126,22 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Introduction: index.md
+  - Executive summary: index.md
   - Plan overview:
-    - Executive summary: plan/summary.md
     - Priority reserve lands: plan/reserves.md
     - Restoration opportunties: plan/restore.md
     - Preferred development: plan/development.md
+  - Plan evaluation:
+    - Current reserve lands: evaluation/currentReserveLands.md
+    - Area goals: evaluation/areaGoals.md
+    - Representativeness: evaluation/representativeness.md
+    - Rarity: evaluation/rarity.md
+    - Connectivity: evaluation/connectivity.md
   - Landscape components:
-    - Rural blocks: landscape/ruralBlocks.md
+    - Functional rural: landscape/rural.md
     - Forest blocks: landscape/forestblocks.md
     - Habitat corridors: landscape/habitatConnectors.md
+    - Floodplains: landscape/floodplains.md
     - Public access: landscape/publicAccess.md
     - Scenic viewsheds: landscape/scenicViewsheds.md
   - Community components:
@@ -145,33 +151,25 @@ nav:
     - Upland hardwood forests: community/uplandHardwoods.md
     - Farmlands: community/farmlands.md
     - Woodlands: community/woodlands.md
+    - Native gardens: community/nativeGardens.md
+  - Species components:
+    - Bat habitat: species/bats.md
+    - Bear habitat: species/bear.md
+    - Deer habitat: species/deer.md
+    - Salamander habitat: species/salamander.md
   - Habitat components:
     - Topographic slope: habitat/slopes.md
     - Climate change refugia: habitat/refugia.md
-    - Floodplains: habitat/floodplains.md
     - Soils: habitat/soils.md
     - Forest age: habitat/oldForests.md
     - Grasslands: habitat/grasslands.md
     - Ponds and creeks: habitat/pondsCreeks.md
     - Wetlands: habitat/wetlands.md
     - Vernal pools: habitat/vernalPools.md
+    - Keystone species: habitat/keystoneSpecies.md
+    - 70% Native Biomass: habitat/seventyPercent.md
     - Friction: habitat/friction.md
-  - Species components:
-    - Bat habitat: species/bats.md
-    - Bear habitat: species/bear.md
-    - Deer habitat: species/deer.md
-    - Salamander habitat: species/salamander.md
-  - Plan evaluation:
-    - Current reserve lands: evaluation/currentReserveLands.md
-    - Area goals: evaluation/areaGoals.md
-    - Representativeness: evaluation/representativeness.md
-    - Rarity: evaluation/rarity.md
-    - Connectivity: evaluation/connectivity.md
-    - Monitoring sites: evaluation/monitoring.md
-  - Background materials:
-    - Introduction: background/intro.md
-  - Methods:
-    - Introduction: methods/intro.md
+    - Dark Skies: habitat/darkSkies.md
 
 #  - Contributing: contributing.md
 #  - License: license.md
