@@ -126,53 +126,38 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Executive summary: index.md
-  - Plan overview:
-    - Priority reserve lands: plan/reserves.md
-    - Restoration opportunties: plan/restore.md
-    - Preferred development: plan/development.md
-  - Plan evaluation:
-    - Current reserve lands: evaluation/currentReserveLands.md
-    - Area goals: evaluation/areaGoals.md
-    - Representativeness: evaluation/representativeness.md
-    - Rarity: evaluation/rarity.md
-    - Connectivity: evaluation/connectivity.md
-  - Landscape components:
-    - Functional rural: landscape/rural.md
-    - Forest blocks: landscape/forestblocks.md
-    - Habitat corridors: landscape/habitatConnectors.md
-    - Floodplains: landscape/floodplains.md
-    - Public access: landscape/publicAccess.md
-    - Scenic viewsheds: landscape/scenicViewsheds.md
-  - Community components:
-    - Swamps: community/swamps.md
-    - Floodplain forests: community/floodplainForests.md
-    - Valley clayplain forests: community/clayplainForests.md
-    - Upland hardwood forests: community/uplandHardwoods.md
-    - Parklands: community/parkLands.md
-    - Farmlands: community/farmlands.md
-    - Woodlands: community/woodlands.md
-    - Native gardens: community/nativeGardens.md
-  - Species components:
-    - Bat habitat: species/bats.md
-    - Bear habitat: species/bear.md
-    - Deer habitat: species/deer.md
-    - Salamander habitat: species/salamander.md
-  - Habitat components:
-    - Steep slopes: habitat/slopeSteep.md
-    - Cool slopes: habitat/slopeCool.md
-    - Hydric soils: habitat/soilsHydric.md
-    - Farming soils: habitat/soilsFarming.md
-    - Forest soils: habitat/soilsForests.md
-    - Canopy age: habitat/oldForests.md
-    - Grasslands: habitat/grasslands.md
-    - Aquatic habitat: habitat/aquaticHabitat.md
-    - Wetlands: habitat/wetlands.md
-    - Vernal pools: habitat/vernalPools.md
-    - Keystone species: habitat/keystoneSpecies.md
-    - 70% Native Biomass: habitat/seventyPercent.md
-    - Friction: habitat/friction.md
-    - Dark Skies: habitat/darkSkies.md
+  - Introduction: index.md
+  - Forest:
+    - Blocks: forests/blocks.md
+    - Size: forests/size.md
+    - Shape: forests/shape.md
+    - Age: forests/age.md
+    - Communities: forests/communities.md
+    - Deer wintering: forests/deer.md
+    - Bat habitat: forests/bats.md
+    - Refugia: forests/refugia.md
+  - Field:
+    - Blocks: fields/blocks.md
+    - Farmlands: fields/farmlands.md
+    - Grasslands: fields/grasslands.md
+    - Size: fields/size.md
+    - Shape: fields/shape.md
+    - Edges: fields/edges.md
+  - Water:
+    - Flood zones: water/flood.md
+    - Riparian zones: water/riparian.md
+    - Wetlands: water/wetlands.md
+    - Vernal pools: water/vernalPools.md
+  - Paths:
+    - Scenic foregrounds: paths/scenicForegrounds.md
+    - Road crossings: paths/roadCrossings.md
+    - Habitat connectors: paths/habitatConnectors.md
+  - Urban:
+    - Blocks: urban/blocks.md
+    - Native greenspace: urban/nativeGreenspace.md
+    - Keystone species: urban/keystoneSpecies.md
+    - 70% Native Biomass: urban/seventyPercent.md
+    - Stars at night: urban/darkSkies.md
 
 #  - Contributing: contributing.md
 #  - License: license.md
