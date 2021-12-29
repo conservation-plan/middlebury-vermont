@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/GOG0310/middlebury-plan/protectedLands/</loc>
+         <lastmod>2021-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/GOG0310/middlebury-plan/fields/blocks/</loc>
          <lastmod>2021-12-29</lastmod>
          <changefreq>daily</changefreq>
@@ -87,6 +92,11 @@
     </url>
     <url>
          <loc>https://github.com/GOG0310/middlebury-plan/paths/scenicForegrounds/</loc>
+         <lastmod>2021-12-29</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/GOG0310/middlebury-plan/paths/trailAccess/</loc>
          <lastmod>2021-12-29</lastmod>
          <changefreq>daily</changefreq>
     </url>

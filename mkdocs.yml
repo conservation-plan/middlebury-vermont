@@ -127,6 +127,7 @@ markdown_extensions:
 # Page tree
 nav:
   - Introduction: index.md
+  - Protected lands: protectedLands.md
   - Forest:
     - Blocks: forests/blocks.md
     - Size: forests/size.md
@@ -152,6 +153,7 @@ nav:
     - Scenic foregrounds: paths/scenicForegrounds.md
     - Road crossings: paths/roadCrossings.md
     - Habitat connectors: paths/habitatConnectors.md
+    - Trail access: paths/trailAccess.md
   - Urban:
     - Blocks: urban/blocks.md
     - Native greenspace: urban/nativeGreenspace.md
