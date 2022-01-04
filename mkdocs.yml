@@ -19,19 +19,19 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: DRAFT Town of Middlebury Conservation Plan
+site_name: Town of Middlebury Conservation Plan
 site_url: https://github.com/GOG0310/middlebury-plan
 site_author: Jeff Howarth
 site_description: >-
-  Conservation plan for the Town of Middlebury, Vermont
+  Draft conservation plan for the Town of Middlebury, Vermont
 
 # Repository
-repo_name: Geog310/middlebury-plan
-repo_url: https://github.com/GEOG310/middlebury-plan
+repo_name: conservation-plan/middlebury-vermont
+repo_url: https://github.com/conservation-plan/middlebury-vermont
 edit_uri: ""
 
 # Copyright
-copyright: Copyright &copy; 2021 Jeff Howarth
+copyright: Copyright &copy; 2022 Jeff Howarth
 
 # Configuration
 theme:
@@ -95,7 +95,7 @@ markdown_extensions:
   - markdown.extensions.meta
   - markdown.extensions.toc:
       permalink: false
-      toc_depth: 3
+      toc_depth: 2
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
@@ -127,39 +127,14 @@ markdown_extensions:
 # Page tree
 nav:
   - Introduction: index.md
-  - Protected lands: protectedLands.md
-  - Forest:
-    - Blocks: forests/blocks.md
-    - Size: forests/size.md
-    - Shape: forests/shape.md
-    - Age: forests/age.md
-    - Communities: forests/communities.md
-    - Deer wintering: forests/deer.md
-    - Bat habitat: forests/bats.md
-    - Refugia: forests/refugia.md
-  - Field:
-    - Blocks: fields/blocks.md
-    - Farmlands: fields/farmlands.md
-    - Grasslands: fields/grasslands.md
-    - Size: fields/size.md
-    - Shape: fields/shape.md
-    - Edges: fields/edges.md
-  - Water:
-    - Flood zones: water/flood.md
-    - Riparian zones: water/riparian.md
-    - Wetlands: water/wetlands.md
-    - Vernal pools: water/vernalPools.md
-  - Paths:
-    - Scenic foregrounds: paths/scenicForegrounds.md
-    - Road crossings: paths/roadCrossings.md
-    - Habitat connectors: paths/habitatConnectors.md
-    - Trail access: paths/trailAccess.md
-  - Urban:
-    - Blocks: urban/blocks.md
-    - Native greenspace: urban/nativeGreenspace.md
-    - Keystone species: urban/keystoneSpecies.md
-    - 70% Native Biomass: urban/seventyPercent.md
-    - Stars at night: urban/darkSkies.md
+  - Forest blocks: forests.md
+  - Water habitats: waterHabitat.md
+  - Field blocks: fields.md
+  - Landscape corridors: landscapeCorridors.md
+  - Wetlands: wetlands.md
+  - Urban districts: urban.md
+  - Conservation evaluation: evaluation.md
+  - Contributors: contributors.md
 
 #  - Contributing: contributing.md
 #  - License: license.md

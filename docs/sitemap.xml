@@ -2,147 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/GOG0310/middlebury-plan/</loc>
-         <lastmod>2021-12-29</lastmod>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/protectedLands/</loc>
-         <lastmod>2021-12-29</lastmod>
+         <loc>https://github.com/GOG0310/middlebury-plan/contributors/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/fields/blocks/</loc>
-         <lastmod>2021-12-29</lastmod>
+         <loc>https://github.com/GOG0310/middlebury-plan/evaluation/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/fields/edges/</loc>
-         <lastmod>2021-12-29</lastmod>
+         <loc>https://github.com/GOG0310/middlebury-plan/fields/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/fields/farmlands/</loc>
-         <lastmod>2021-12-29</lastmod>
+         <loc>https://github.com/GOG0310/middlebury-plan/forests/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/fields/grasslands/</loc>
-         <lastmod>2021-12-29</lastmod>
+         <loc>https://github.com/GOG0310/middlebury-plan/landscapeCorridors/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/fields/shape/</loc>
-         <lastmod>2021-12-29</lastmod>
+         <loc>https://github.com/GOG0310/middlebury-plan/urban/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/fields/size/</loc>
-         <lastmod>2021-12-29</lastmod>
+         <loc>https://github.com/GOG0310/middlebury-plan/waterHabitat/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/forests/age/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/forests/bats/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/forests/blocks/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/forests/communities/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/forests/deer/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/forests/refugia/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/forests/shape/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/forests/size/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/paths/habitatConnectors/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/paths/roadCrossings/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/paths/scenicForegrounds/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/paths/trailAccess/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/urban/blocks/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/urban/darkSkies/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/urban/keystoneSpecies/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/urban/nativeGreenspace/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/urban/seventyPercent/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/water/flood/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/water/riparian/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/water/vernalPools/</loc>
-         <lastmod>2021-12-29</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/water/wetlands/</loc>
-         <lastmod>2021-12-29</lastmod>
+         <loc>https://github.com/GOG0310/middlebury-plan/wetlands/</loc>
+         <lastmod>2022-01-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
