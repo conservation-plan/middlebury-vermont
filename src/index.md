@@ -1,4 +1,4 @@
-The purposes of a conservation plan are to:  
+The purpose of a town conservation plan is to:  
 
 1. document clear definitions, goals, and locations of conservation elements in Middlebury to strengthen the role of Town Plan in Act 250 and PUC reviews;
 
