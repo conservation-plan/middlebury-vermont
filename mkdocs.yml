@@ -20,7 +20,7 @@
 
 # Project information
 site_name: Town of Middlebury Conservation Plan
-site_url: https://github.com/GOG0310/middlebury-plan
+site_url: https://conservation-plan.github.io/middlebury-vermont/
 site_author: Jeff Howarth
 site_description: >-
   Draft conservation plan for the Town of Middlebury, Vermont
@@ -127,13 +127,13 @@ markdown_extensions:
 # Page tree
 nav:
   - Introduction: index.md
+  - Cadastre: cadastre.md
   - Forest blocks: forests.md
-  - Water habitats: waterHabitat.md
+  - Riverine habitats: riverine.md
   - Field blocks: fields.md
-  - Landscape corridors: landscapeCorridors.md
-  - Wetlands: wetlands.md
+  - Corridors: corridors.md
+  - Wetland habitats: wetlands.md
   - Urban districts: urban.md
-  - Conservation evaluation: evaluation.md
   - Contributors: contributors.md
 
 #  - Contributing: contributing.md

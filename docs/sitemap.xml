@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/</loc>
-         <lastmod>2022-01-04</lastmod>
+         <loc>https://conservation-plan.github.io/middlebury-vermont/</loc>
+         <lastmod>2022-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/contributors/</loc>
-         <lastmod>2022-01-04</lastmod>
+         <loc>https://conservation-plan.github.io/middlebury-vermont/cadastre/</loc>
+         <lastmod>2022-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/evaluation/</loc>
-         <lastmod>2022-01-04</lastmod>
+         <loc>https://conservation-plan.github.io/middlebury-vermont/contributors/</loc>
+         <lastmod>2022-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/fields/</loc>
-         <lastmod>2022-01-04</lastmod>
+         <loc>https://conservation-plan.github.io/middlebury-vermont/corridors/</loc>
+         <lastmod>2022-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/forests/</loc>
-         <lastmod>2022-01-04</lastmod>
+         <loc>https://conservation-plan.github.io/middlebury-vermont/fields/</loc>
+         <lastmod>2022-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/landscapeCorridors/</loc>
-         <lastmod>2022-01-04</lastmod>
+         <loc>https://conservation-plan.github.io/middlebury-vermont/forests/</loc>
+         <lastmod>2022-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/urban/</loc>
-         <lastmod>2022-01-04</lastmod>
+         <loc>https://conservation-plan.github.io/middlebury-vermont/riverine/</loc>
+         <lastmod>2022-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/waterHabitat/</loc>
-         <lastmod>2022-01-04</lastmod>
+         <loc>https://conservation-plan.github.io/middlebury-vermont/urban/</loc>
+         <lastmod>2022-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://github.com/GOG0310/middlebury-plan/wetlands/</loc>
-         <lastmod>2022-01-04</lastmod>
+         <loc>https://conservation-plan.github.io/middlebury-vermont/wetlands/</loc>
+         <lastmod>2022-01-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
