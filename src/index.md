@@ -1,6 +1,6 @@
 The purpose of a town conservation plan is to:  
 
-1. document clear definitions, goals, and locations of conservation elements in Middlebury to strengthen the role of Town Plan in Act 250 and PUC reviews;
+1. document goals, inventories, and 'clear written community standards' for conservation elements in Middlebury to strengthen the role of Town Plan in Act 250 and PUC reviews;
 
 2. identify criteria to prioritize the allocation of resources for land conservation and stewardship, including applications of Town Conservation Fund;
 

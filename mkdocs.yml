@@ -19,7 +19,7 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Town of Middlebury Conservation Plan
+site_name: DRAFT Conservation Plan for Middlebury, VT
 site_url: https://conservation-plan.github.io/middlebury-vermont/
 site_author: Jeff Howarth
 site_description: >-
@@ -95,7 +95,7 @@ markdown_extensions:
   - markdown.extensions.meta
   - markdown.extensions.toc:
       permalink: false
-      toc_depth: 2
+      toc_depth: 3
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
@@ -127,13 +127,16 @@ markdown_extensions:
 # Page tree
 nav:
   - Introduction: index.md
-  - Cadastre: cadastre.md
+  - Atlas: atlas.md 
+  - Land parcels: parcels.md
+  - Riverine elements: riverine.md
   - Forest blocks: forests.md
-  - Riverine habitats: riverine.md
+  - Habitat connectors: connectors.md
   - Field blocks: fields.md
-  - Corridors: corridors.md
-  - Wetland habitats: wetlands.md
+  - Wetland habitat: wetlands.md
   - Urban districts: urban.md
+  - Paths: paths.md
+  - Comment form: comments.md
   - Contributors: contributors.md
 
 #  - Contributing: contributing.md
